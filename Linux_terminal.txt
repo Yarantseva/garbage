@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Linux terminal (GitBash) commands (30.08.2021)
+=======
+Linux terminal (GitBash) commands
+>>>>>>> b02d43f1bf2e7e77cb7519bfb546cbb1b7268c7f
 
 1) Посмотреть где я - pwd
 
