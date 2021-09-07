@@ -1,4 +1,4 @@
-Linux terminal (GitBash) commands
+Linux terminal (GitBash) commands (30.08.2021)
 
 1) Посмотреть где я - pwd
 
