@@ -1,2 +1,2 @@
 # group_22
-[![DevTools](![image](https://user-images.githubusercontent.com/79757188/136648889-e409b99d-2b90-4bf5-afc4-e46b5e017ef3.png))](https://youtu.be/axx0SKoxfKU)
+[![DevTools](https://user-images.githubusercontent.com/79757188/136648938-0f81c08d-ae8b-48b3-a474-8450c2e88fdb.png)](https://youtu.be/axx0SKoxfKU)
